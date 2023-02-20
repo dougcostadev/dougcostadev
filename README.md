@@ -1,8 +1,8 @@
 ## Hi, my name is Douglas Costa, passionate about technology and game development!
 <div align="center">
   <a href="https://github.com/k7doug">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=k7doug&show_icons=true&theme=transparent"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k7doug&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=k7doug&show_icons=true&theme=transparent&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k7doug&layout=compact&langs_count=7&theme=transparent&count_private=true"/>
   <img height="100em" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314fm6d2yjd24yo5xuc465xrmw7q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314fm6d2yjd24yo5xuc465xrmw7q&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)">
   <img height="160em" src="https://lanyard.cnrad.dev/api/686489824546390026?borderRadius=5px&hideTimestamp=true&hideUser=true">
 	  
