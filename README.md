@@ -15,6 +15,7 @@
   <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Doug-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Doug-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Doug-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
   
   <img align="right" alt="Doug-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/902229771717595226/945551094644342845/Webp.net-gifmaker_1.gif">
 </div>
