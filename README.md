@@ -1,6 +1,6 @@
 ## Hi, my name is Douglas Costa, passionate about technology and game development!
 <div align="center">
-  <a href="https://github.com/k7doug">
+  <a href="https://github.com/dougcostadev">
   <img height="100em" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314kelkhwdeiegkzdlfsbvu7mmpy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314kelkhwdeiegkzdlfsbvu7mmpy&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)">
   <img height="160em" src="https://lanyard.cnrad.dev/api/686489824546390026?borderRadius=5px&hideTimestamp=true&hideUser=false">
 	  
@@ -23,6 +23,6 @@
  <a href="https://discord.com/users/686489824546390026" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:douglas.codebr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/k7doug/k7doug/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dougcostadev/dougcostadev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
