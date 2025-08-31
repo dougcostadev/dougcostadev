@@ -19,18 +19,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-
-🔹 [**luar_tempban**](https://github.com/dougcostadev/luar_tempban)  
-Sistema de banimento temporário em **Lua** para servidores *FiveM*, com configuração simples e extensível.  
-
-🔹 [**luar_toggle**](https://github.com/dougcostadev/luar_toggle)  
-Recurso para habilitar/desabilitar funcionalidades dinamicamente em servidores de jogos.  
-
-> ✨ Mais projetos no meu [repositório](https://github.com/dougcostadev?tab=repositories).
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
