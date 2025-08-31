@@ -16,7 +16,7 @@
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
-
+---
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougcostadev&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougcostadev&layout=compact&langs_count=7&theme=tokyonight"/>
