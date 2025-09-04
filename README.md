@@ -21,7 +21,7 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-zeta-eight-70.vercel.app/api?username=dougcostadev&show_icons=true&theme=transparent"/>
-  <img height="150em" src="https://github-readme-stats-zeta-eight-70.vercel.app/api/top-langs/?username=dougcostadev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-zeta-eight-70.vercel.app/api/top-langs/?username=dougcostadev&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ---
