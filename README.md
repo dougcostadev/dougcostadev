@@ -25,6 +25,5 @@
 ✨ “Código é mais do que lógica: é criatividade transformada em realidade.”
 
 <div align="center">
-  <a href="https://github.com/dougcostadev">
-  <img height="160em" src="https://lanyard.cnrad.dev/api/686489824546390026?borderRadius=5px&hideTimestamp=true&hideUser=false">
+<a href="https://discord.com/users/686489824546390026"><img src="https://lanyard.cnrad.dev/api/686489824546390026?idleMessage=If%20I'm%20not%20offline%2C%20I'm%20probably%20working...&theme=dark&showDisplayName=true" /></a>
 </div>
