@@ -17,15 +17,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
----
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-zeta-eight-70.vercel.app/api?username=dougcostadev&show_icons=true&theme=transparent"/>
-  <img height="150em" src="https://github-readme-stats-zeta-eight-70.vercel.app/api/top-langs/?username=dougcostadev&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-
----
-
 ## 🌍 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link)  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:douglas.codebr@gmail.com) [![Discord](https://img.shields.io/badge/Discord-dougcosta-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/686489824546390026)
