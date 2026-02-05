@@ -1,8 +1,16 @@
 # 👋 Olá, eu sou o Douglas Costa
 
-🎮 Desenvolvedor apaixonado por tecnologia e **game development**.  
-💻 Atualmente atuo em projetos com **Lua, Node.js e Vue.js**, criando soluções para servidores de jogos e sistemas web.  
-🚀 Sempre em busca de aprender, compartilhar e construir coisas úteis.
+### 🚀 Software Engineer | Cfx.re Platform Specialist
+
+Desenvolvedor apaixonado por tecnologia, focado na construção de sistemas de alto desempenho e arquitetura para game development. Atuo com foco em lógica de backend, automação e criação de ambientes complexos para servidores de jogos.
+
+---
+
+## 💻 Sobre Mim
+
+* **Engenharia de Sistemas:** Especialista no desenvolvimento de soluções robustas utilizando **Python** para o mercado corporativo.
+* **Game Development (Cfx.re):** Arquiteto de sistemas em **Lua**, com vasta experiência na criação de modos de jogo personalizados e gerenciamento de infraestrutura para servidores.
+* **Soluções Escaláveis:** Focado em traduzir requisitos complexos de design em funcionalidades técnicas sólidas e eficientes.
 
 ---
 
